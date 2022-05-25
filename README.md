@@ -1,6 +1,4 @@
-### Hi there 👋
-
-//**KMoore7/KMoore7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Karla and I'm a Software Engineer. 👋
 
 
  🔭 I’m currently working on my creating the ultimate issue ticketing system
