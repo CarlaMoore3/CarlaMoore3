@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Moore.Karla@icloud.com**
 
-- ⚡ Fun fact **I love hot air baloons**
+- ⚡ Fun fact: **I love hot air baloons**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
